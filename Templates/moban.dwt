@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Welcome to Lemon tree! </title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/style.css"  rel="stylesheet" type="text/css"  />
+</head>
+
+<body>
+<div class="logo"><a href="#"><img src="../imags/logo.png" width="168" height="76" alt="Lemon tree" /></a></div>
+<div class="nav">
+	<div class="navLeft"><img src="../imags/nav_left.jpg" width="17" height="60" /></div>
+    <ul>
+    	<li><a href="#">首 页</a></li>
+        <li><a href="list.html">公司新闻</a></li>
+        <li><a href="#">行业动态</a></li>
+        <li><a href="#">基地管理</a></li>
+        <li><a href="#">会员服务</a></li>
+        <li><a href="#">网上购物</a></li>
+        <li><a href="#">产品展示</a></li>
+        <li><a href="#">关于我们</a></li>
+        <li class="nobg"><a href="#">ENGLISH</a></li>
+    </ul>
+  <div class="navLeft"><img src="../imags/nav_right.jpg" width="17" height="60" /></div>
+</div>
+<div class="banner"><img src="../imags/tu_s1.jpg" width="980" height="385" /></div>
+<div class="content">
+	<ul class="top">
+    	<li>
+        	<p class="one"><img src="../imags/tu_1.jpg" width="95" height="26" alt="有机蔬菜" /></p>
+            <p class="two">主要通过自然降水、施用农家肥人工除草等传统的农...</p>
+        </li>
+        <li>
+        	<p class="one"><img src="../imags/tu_2.jpg"width="98" height="26" alt="有机蔬菜" /></p>
+            <p class="two">含有丰富的碳水化合物、维生素和微量元素，尤其是...</p>
+        </li>
+        <li>
+        	<p class="one"><img src="../imags/tu_3.jpg" width="98" height="26" alt="有机蔬菜" /></p>
+            <p class="two">含有丰富的碳水化合物、维生素和微量元素，尤其是...</p>
+        </li>
+        <li>
+        	<p class="one"><img src="../imags/tu_4.jpg" width="103" height="26" alt="有机蔬菜" /></p>
+            <p class="two">在饲养过程中不添加任何化学合成的添加剂、抗生素...</p>
+        </li>
+    </ul>
+    <div class="bottom">
+    	<div class="botLeft">
+        	<h2><img src="../imags/tit_1.jpg" width="185" height="39" alt="关于我们" /><a href="#"><img src="../imags/more.jpg" width="34" height="21" alt="more" /></a></h2>
+            <dl>
+            	<dt><a href="#"><img src="../imags/photo_1.jpg" width="96" height="82" /></a></dt>
+                <dd>Lemon tree 有机园立志于有机事业的发展，坚持以人为本，走可持续发展的道路，从农田到餐桌，实行全过程监控体系，以优质的产品为更多的人提供健康的食品安...<a href="#">详细内容>></a></dd>
+            </dl>
+        </div>
+      <div class="botCenter">
+      	<h2><img src="../imags/tit_2.jpg" width="148" height="39" alt="产品展示" /><a href="#"><img src="../imags/more.jpg" width="34" height="21" alt="more" /></a></h2>
+        <ul>
+        	<li>
+            	<p class="cpOne"><img src="../imags/photo_2.jpg" width="120" height="94" /></p>
+                <p class="cpTwo"><a href="#">(古道)纯牛奶</a></p>
+            </li>
+      <li>
+            	<p class="cpOne"><img src="../imags/photo_3.jpg" width="120" height="94" /></p>
+                <p class="cpTwo"><a href="#">（天然）有机油</a></p>
+            </li>
+      <li class="noPad">
+            	<p class="cpOne"><img src="../imags/photo_4.jpg" width="120" height="94" /></p>
+                <p class="cpTwo"><a href="#">(精美)礼盒</a></p>
+            </li>
+            
+        </ul>
+      </div>
+      <div class="botRight">
+      	<h2><img src="../imags/tit_3.jpg" width="127" height="39" alt="联系我们" /></h2>
+        <p>
+        	地  址：陕西省西安市长安区兴隆段266号<br />     
+            邮  编：7120126<br />     
+            热线电话：029-62358888 <br />                                   
+            传  真：010-88636666<br />     
+            邮  箱：lemon_tree@l63.com
+        </p>
+      </div>
+    </div>
+</div>
+<div class="botNav"><a href="#">网站首页</a><span>|</span><a href="#">公司新闻</a><span>|</span><a href="#">行业动态</a><span>|</span><a href="#">基地管理</a><span>|</span><a href="#">会员服务</a><span>|</span><a href="#">网上购物</a><span>|</span><a href="#">产品展示</a><span>|</span><a href="#">关于我们</a></div>
+<div class="wrapFoot">
+<div class="foot">
+    	电话：029-62358888 　传真：010-88636666　客服电话：400-0809-560<br />
+	    Lemon tree有机园    版权所有 ICP备案号：05015076
+    <img src="../imags/logo_1.jpg" width="108" height="49" />
+    　 </div>
+ </div>
+</body>
+</html>
